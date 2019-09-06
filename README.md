@@ -1,2 +1,3 @@
 # m2i-jour2
+L'Olympique de Marseille est un club de football français fondé en août 1899 à Marseille par René Dufaure de Montmirail. Le club marseillais joue au stade de l'Huveaune de 1904 à 1937, date à laquelle est inauguré le stade Vélodrome. Auparavant, le club marseillais remporte sa première Coupe de France en 1924 et devient le tout premier club provincial à …
 README
